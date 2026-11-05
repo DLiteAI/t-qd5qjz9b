@@ -1,0 +1,25 @@
+{
+  "name": "D'Lite test version",
+  "short_name": "D'Lite test",
+  "description": "A test version of the D'Lite coaching app with made-up people. Not for real health use.",
+  "start_url": "/t-qd5qjz9b/",
+  "scope": "/t-qd5qjz9b/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf5ea",
+  "theme_color": "#2e5a4c",
+  "icons": [
+    {
+      "src": "/t-qd5qjz9b/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/t-qd5qjz9b/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
